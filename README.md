@@ -6,3 +6,5 @@
   - Id: 408964
   - Correo: 01sebas.co@gmail.com
 ---
+## Nota
+En el directorio docs, se encuentran la colección de postman y el contrato de la api.
